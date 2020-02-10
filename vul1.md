@@ -22,4 +22,4 @@ Then, this function will call system to execute command as bleow:
 
 ![image](./img/2.png)
 
-Finally, the attacker can get telnet shell.
+Finally, the attacker can get the telnet shell.
