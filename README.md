@@ -1,2 +1,2 @@
 # Netgear
-some vuls
+Some vulnerabilities for Netgear router.
