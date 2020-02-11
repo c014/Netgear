@@ -7,6 +7,8 @@ The Latest Firmware Version 1.0.4.84_10.0.58  (http://www.downloads.netgear.com/
 
 The Class of Vulnerability: Command Injection
 
+Author: leonW7 of sjtu
+
 Vulnerability description
 -------------------------
 An issue was discovered on Netgear R6400v2 devices with firmware through 1.0.4.84_10.0.58. A command Injection vulnerability allows attackers to execute arbitrary OS commands via shell metacharacters in a crafted POST request. This occurs when the amule function calls the system function with an untrusted input parameter named "ed_url". 
