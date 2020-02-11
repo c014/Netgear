@@ -16,9 +16,9 @@ The details of the bug fuction are as below:
 ![image](./img/3.png)
 
 The v5 parameter of sprintf function is a string var which is from a POST parameter named "ed_url", and this parameter is formed as:
-
-<p>ed2k://|file|`utelnetd`.avi|1231680512|172A71E184E99A501E6B9FD24A7019FD|/</p>
-
+```
+ed2k://|file|`utelnetd`.avi|1231680512|172A71E184E99A501E6B9FD24A7019FD|
+```
 Then, this function will call system to execute command as bleow:
 
 ![image](./img/2.png)
