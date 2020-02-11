@@ -21,7 +21,7 @@ The v5 parameter of sprintf function is a string var which is from a POST parame
 ```
 ed2k://|file|`utelnetd`.avi|1231680512|172A71E184E99A501E6B9FD24A7019FD|
 ```
-Then, this function will call system to execute command as bleow:
+Then, this function will call system function to execute the command "utelnetd" as bleow:
 
 ![image](./img/2.png)
 
