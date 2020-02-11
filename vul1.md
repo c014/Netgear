@@ -7,7 +7,7 @@ The Latest Firmware Version 1.0.4.84_10.0.58  (http://www.downloads.netgear.com/
 
 The Class of Vulnerability: Command Injection
 
-Author: leonW7 of sjtu
+Author: leonW7 of SJTU
 
 Vulnerability description
 -------------------------
