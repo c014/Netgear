@@ -13,7 +13,7 @@ Vulnerability description
 -------------------------
 An issue was discovered on Netgear R6400v2 devices with firmware through 1.0.4.84_10.0.58. A command Injection vulnerability allows attackers to execute arbitrary OS commands via shell metacharacters in a crafted POST request. This occurs when the amule function calls the system function with an untrusted input parameter named "ed_url". 
 
-The details of the bug fuction are as below:
+The affected executable is /usr/sbin/httpd that operates web service of router, and the details of the bug fuction are as below:
 
 ![image](./img/3.png)
 
