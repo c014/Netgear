@@ -17,11 +17,13 @@ The affected executable is /usr/sbin/httpd that operates web service of router, 
 
 ![image](./img/3.png)
 
-The v5 parameter of sprintf function is a string var which is from a POST parameter named "ed_url", and this parameter is formed as:
+The v5 parameter of sprintf function is a string var which is from a POST parameter named "ed_url", and this parameter will be formed as below:
+
 ```
 ed2k://|file|`utelnetd`.avi|1231680512|172A71E184E99A501E6B9FD24A7019FD|
 ```
-Then, this function will call system function to execute the command "utelnetd" as bleow:
+
+Then, this function will call system function to execute the command "utelnetd":
 
 ![image](./img/2.png)
 
