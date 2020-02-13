@@ -1,5 +1,5 @@
 # R6400v2 amule CMD Injection
-Vulnerability for D-Link Router
+Vulnerability for Netgear Router
 
 Product: Netgear R6400v2 (https://www.netgear.com/support/product/R6400v2.aspx)
 
